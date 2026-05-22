@@ -14,7 +14,7 @@ const app = express();
 
 const allowedOrigins = (process.env.CLIENT_URL || "")
 .split(",")
-.map((S) => S.trim())
+.map((s) => s.trim())
 .filter(Boolean);
 
 const corsOptions = {
