@@ -7,9 +7,6 @@ An AI-powered habit tracking web application that helps users build and manage d
 Frontend:
 https://aihabittracker-kapil-garg.netlify.app
 
-Backend:
-https://aihabittracker-backend.onrender.com
-
 ---
 
 ## Features
