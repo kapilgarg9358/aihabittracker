@@ -17,7 +17,7 @@ https://aihabittracker-kapil-garg.netlify.app
 
 # 📸 Application Screenshots
 
----
+
 
 ## 🏠 Landing Page
 
